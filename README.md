@@ -8,5 +8,5 @@
 **5.    Exploring Data**<br>
 
 
-### Abstract
+## Abstract
 Sales forecasting is an important tool for companies in the market industry. The prediction is necessary for the company to manage the number of different products according to the demand from consumers. 
